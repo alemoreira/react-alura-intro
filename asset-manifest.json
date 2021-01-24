@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-alura-intro/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-alura-intro/static/js/main.c55a534c.chunk.js",
+    "main.js.map": "/react-alura-intro/static/js/main.c55a534c.chunk.js.map",
+    "runtime-main.js": "/react-alura-intro/static/js/runtime-main.c020255c.js",
+    "runtime-main.js.map": "/react-alura-intro/static/js/runtime-main.c020255c.js.map",
+    "static/js/2.292dad1d.chunk.js": "/react-alura-intro/static/js/2.292dad1d.chunk.js",
+    "static/js/2.292dad1d.chunk.js.map": "/react-alura-intro/static/js/2.292dad1d.chunk.js.map",
+    "static/js/3.8704a96b.chunk.js": "/react-alura-intro/static/js/3.8704a96b.chunk.js",
+    "static/js/3.8704a96b.chunk.js.map": "/react-alura-intro/static/js/3.8704a96b.chunk.js.map",
+    "index.html": "/react-alura-intro/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-alura-intro/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.292dad1d.chunk.js.LICENSE.txt": "/react-alura-intro/static/js/2.292dad1d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-alura-intro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c020255c.js",
+    "static/js/2.292dad1d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c55a534c.chunk.js"
+  ]
+}
